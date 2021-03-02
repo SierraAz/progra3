@@ -1,0 +1,8 @@
+>>> monto=float(input('Ingrese el monto que desea inventir: '))
+Ingrese el monto que desea inventir: 500.00
+>>> interes=float(input('Ingrese el interes anual: '))
+Ingrese el interes anual: 2.56
+>>> anos=float(input('Ingrese el numero de años a: '))
+Ingrese el numero de años a: 7
+>>> print('Al pasar ',anos,'ano/s si usted saca todo el dinero obtendra: ',monto+(anos*(monto*(interes*0.1))))
+Al pasar  7.0 ano/s si usted saca todo el dinero obtendra:  1396.0
