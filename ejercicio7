@@ -2,7 +2,6 @@
 Ingrese su peso en Kg: 85
 >>> altura=float(input('Ingrese su altura en Metros: '))
 Ingrese su altura en Metros: 1
->>> import math
->>> imc=peso/math.sqrt(altura)
+>>> imc=peso/altura**2
 >>> print('Su indice de masa corporal es: ', imc)
 Su indice de masa corporal es:  85.0
