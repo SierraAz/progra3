@@ -1,0 +1,10 @@
+>>> a=float(input('Ingrese un numero para a: '))
+Ingrese un numero para a: 2.22
+>>> b=float(input('Ingrese un numero para b: '))
+Ingrese un numero para b: 3.10
+>>> print('la division a/b es: ',a/b)
+la division a/b es:  0.7161290322580646
+>>> c=a/b
+>>> d=a-b
+>>> print('El valor de a^c es: ',a**c,'El balor de b^d es: ',b**d)
+El valor de a^c es:  1.770245179363801 El balor de b^d es:  0.3694891665968085
