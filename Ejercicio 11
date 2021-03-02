@@ -1,0 +1,4 @@
+>>> ram=int(input('Ingrese la cantidad de memorias RAM vendidas: '))
+Ingrese la cantidad de memorias RAM vendidas: 122
+>>> print('El precio habitual de las memorias ram sería de $',ram*20,' pero debido a que son usadas su precio se reduce a $',(ram*20)-((ram*20)*.6))
+El precio habitual de las memorias ram sería de $ 2440  pero debido a que son usadas su precio se reduce a $ 976.0
