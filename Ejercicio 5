@@ -1,0 +1,7 @@
+>>> horas = float (input('Ingrese las horas estudiadas en programacion 3: '))
+Ingrese las horas estudiadas en programacion 3: 50
+>>> prom = float (input('Ingrese el promedio de tiempo que estudia: '))
+Ingrese el promedio de tiempo que estudia: 5
+>>> estudiado = round(horas + prom, 3)
+>>> print ('Las horas estudiadas son ' + str(horas))
+Las horas estudiadas son 50
