@@ -1,0 +1,5 @@
+>>> m = int(input('Ingrese un numero entero: '))
+Ingrese un numero entero: 2
+>>> suma = m * (m + 1) / 2
+>>> print ('La suma de los primeros numeros enteros de 1 hasta ' + str(m) + ' es ' + str(suma))
+La suma de los numeros enteros de 1 hasta 2 es 3 
