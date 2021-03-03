@@ -1,0 +1,4 @@
+>>> nombre = input ('Ingrese su nombre de usuario: ')
+Ingrese su nombre de usuario: Ramirez El Asqueroso
+>>> print ('su nombre es ',nombre)
+su nombre es Ramirez El Asqueroso
